@@ -1,7 +1,7 @@
 # BaseR_animation
 Animation using base R programming
 
-The Rcode file represents a function which can be run in base R (not RStudio).  
+The "Wagon Animation.R" file represents a function which effectively runs in base R (not RStudio).  
 
 The result of the function is an animated scene of a wagon.  
 The animation includes spinning wheels, moving streams, rider and sun. 
