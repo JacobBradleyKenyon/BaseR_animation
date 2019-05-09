@@ -3,8 +3,8 @@ Animation using base R programming
 
 The "Wagon Animation.R" file represents a function which effectively runs in base R (not RStudio).  
 
-The result of the function is an animated scene of a wagon.  
-The animation includes spinning wheels, moving streams, rider and sun. 
+The result of the function is an animated wild west scene.  
+The animation includes spinning wheels, moving streams, rider, horse and sun. 
 Animation is achieved by utilising the sleep R base function which does not work within RStudio.
 The function takes three inputs; "Wagon.SR", "Sun.SD" and "sleep".
 
